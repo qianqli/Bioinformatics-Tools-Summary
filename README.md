@@ -23,17 +23,25 @@ This repo summaries the main bioinformatics datasources and tools.
    
    Access is controlled.
    
-### 7, ICGA(International Cancer Genome Consortium) --https://dcc.icgc.org/
+### 7, cBioPortal - https://www.cbioportal.org/  
+  Github: https://github.com/cBioPortal/cbioportal
+  
+  The cBioPortal for Cancer Genomics provides visualization, analysis, and download of large-scale cancer genomics data sets.
+  
+### 8, GEPIA: http://gepia.cancer-pku.cn/index.html
+   A interactive web server for analyzing RNA sequencing expression data of 9,736 tumors and 8,587 normal samples from the TCGA and the GTEx projects, using a standard processing pipeline.
+   
+### 9, ICGA(International Cancer Genome Consortium) --https://dcc.icgc.org/
    Cancer genomics data sets visualization, analysis and download;
    
    Single loci analysis of cancer;
    
    Open to all  
 
-### 8, IGSR: The International Genome Sample Resource) --https://www.internationalgenome.org/ 
+### 10, IGSR: The International Genome Sample Resource) --https://www.internationalgenome.org/ 
    created a catalogue of common human genetic variation;
    
-### 9, ProteomeXchange --http://www.proteomexchange.org/
+### 11, ProteomeXchange --http://www.proteomexchange.org/
    provide mass spectrum proteomics data
 
 
